@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24842eac-ec22-44cb-82fb-e40629e6bbea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.vega/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.vega/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Startup.cs" afterPath="$PROJECT_DIR$/Startup.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vega.csproj" afterPath="$PROJECT_DIR$/Vega.csproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appsettings.json" afterPath="$PROJECT_DIR$/appsettings.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,11 +62,11 @@
       <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appsettings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="165">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
-                <marker date="1498578541839" expanded="true" signature="15:162" ph="{...}" />
-                <marker date="1498578541839" expanded="true" signature="61:158" ph="{...}" />
+                <marker date="1498579456618" expanded="true" signature="15:162" ph="{...}" />
+                <marker date="1498579456618" expanded="true" signature="61:158" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -98,8 +95,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5F64D0E4-986F-4F55-A371-10812112614E/99/a82ee85e/IConfiguration.cs" />
         <option value="$PROJECT_DIR$/DataAccess/VegaDbContext.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2645C1C7-3455-46F5-B968-E91DE81E2B12/76/36472597/EntityFrameworkServiceCollectionExtensions.cs" />
-        <option value="$PROJECT_DIR$/appsettings.json" />
         <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/appsettings.json" />
       </list>
     </option>
   </component>
@@ -279,12 +276,12 @@
       <option name="presentableId" value="Default" />
       <updated>1498559797406</updated>
       <workItem from="1498559805663" duration="1637000" />
-      <workItem from="1498577467366" duration="1350000" />
+      <workItem from="1498577467366" duration="2035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2987000" />
+    <option name="totallyTimeSpent" value="3672000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +294,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -305,7 +301,7 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40691194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40691194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21321961" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -439,11 +435,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
-            <marker date="1498578541839" expanded="true" signature="15:162" ph="{...}" />
-            <marker date="1498578541839" expanded="true" signature="61:158" ph="{...}" />
+            <marker date="1498579456618" expanded="true" signature="15:162" ph="{...}" />
+            <marker date="1498579456618" expanded="true" signature="61:158" ph="{...}" />
           </folding>
         </state>
       </provider>
