@@ -8,9 +8,10 @@ using vega.DataAccess;
 namespace Vega.Migrations
 {
     [DbContext(typeof(VegaDbContext))]
-    partial class VegaDbContextModelSnapshot : ModelSnapshot
+    [Migration("20170628083504_AddTables")]
+    partial class AddTables
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")
@@ -21,15 +22,11 @@ namespace Vega.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<int>("ModelId");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(100);
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ModelId");
 
                     b.ToTable("Features");
                 });
@@ -64,14 +61,6 @@ namespace Vega.Migrations
                     b.HasIndex("MakeId");
 
                     b.ToTable("Models");
-                });
-
-            modelBuilder.Entity("Vega.Entities.Feature", b =>
-                {
-                    b.HasOne("Vega.Entities.Model", "Model")
-                        .WithMany()
-                        .HasForeignKey("ModelId")
-                        .OnDelete(DeleteBehavior.Cascade);
                 });
 
             modelBuilder.Entity("Vega.Entities.Model", b =>
